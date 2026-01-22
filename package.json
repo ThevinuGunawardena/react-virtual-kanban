@@ -1,0 +1,8 @@
+{
+  "name": "react-virtual-kanban",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "dependencies": {
+    "@tanstack/react-virtual": "^3.0.0"
+  }
+}
